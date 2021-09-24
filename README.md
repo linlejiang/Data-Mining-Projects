@@ -6,7 +6,7 @@
 ## Description
 These are class projects for USC DSCI553 - Foundations and Applications of Data Mining. To process large-scale data efficiently, all projects are completed using python and spark. The dataset for each project can be found [here](https://drive.google.com/drive/folders/1QJkV0Q9CvxLdj_Yxld93HxqzB4dzG1EK?usp=sharing).
 
-|    Topic    |Codes|Tags|Data Size|
+|    Topic    |Code|Keyword|Data Size|
 |------------------------|-----------|----|--|
 |[Identifying_Frequent_Itemsets](./Identifying_Frequent_Itemsets/description.pdf)|[Python](./Identifying_Frequent_Itemsets)| `PCY` `Apriori` `SON`|9.20M Lines (5.59GB)|
 |[Recommendation_Systems](./Recommendation_Systems/description.pdf)|[Python](./Recommendation_Systems)|`Collaborative Filtering` `MinHash` `LSH`|0.62M Lines (528MB)|
